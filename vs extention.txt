@@ -1,0 +1,25 @@
+1. Auto Close Tag — Jun Han
+2. Auto Rename Tag — Jun Han
+3. Babel JavaScript — Michael McDermott
+4. Bootstrap 5 Quick Snippets — Anbuselvan Rocky
+5. Dev Containers — Microsoft
+6. ES7+ React/Redux/React-Native Snippets — dsznajder
+7. HTML Boilerplate — sidthesloth
+8. HTML CSS Support — ecmel
+9. Import Cost — Wix
+10. JavaScript (ES6) Code Snippets — Charalampos Karypidis
+11. Live Server — Ritwick Dey
+12. MERN Snippets — devzstudio
+13. Mithril Emmet — FallenMax
+14. MongoDB for VS Code — MongoDB
+15. Docker — Microsoft
+16. CodeSnap — adpyke
+
+
+17. Prettier - Code Formatter — Prettier
+18. ESLint — Microsoft
+19. GitLens — GitKraken
+20. Thunder Client — Thunder Client
+21. Path Intellisense — Christian Kohler
+22. Material Icon Theme — Philipp Kief
+23. Tailwind CSS IntelliSense — Tailwind Labs (if using Tailwind)
